@@ -18,8 +18,9 @@ I also do back-end, although I’m less experienced in this domain.\
 <img src="https://www.situp-webcreation.com/img_techno/logo-nodejs.png" height="36" alt="NodeJS">
 <img src="https://www.situp-webcreation.com/img_techno/logo-mongo-db.png" height="36" alt="MongoDB">
 
-### Server and Linux
-I’m familiar with basic configuration on Apache and basic bash commands, including SSH.
+### Apache and Linux
+I’m familiar with basic configurations on Apache and basic bash commands, including SSH.\
+<img src="https://www.situp-webcreation.com/img_techno/logo-apache.png" height="36" alt="Apache"><img src="https://www.situp-webcreation.com/img_techno/logo-linux.png" height="36" alt="Linux">
 
 <!--
 **Tom-Pich/Tom-Pich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
