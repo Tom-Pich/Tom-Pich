@@ -3,6 +3,10 @@
 I’m a front-end web developper, working as a freelance in B2B and B2C.\
 I’m currently improving my back-end knowledge (PHP MVC model, Symfony, Composer...).
 
+### My philosophy
+The simplier, the better. Do stuff with less code, less framework, less library.  
+Simple, resilient, light-weighted, long-lasting.
+
 ### My Front-End Stack
 <img src="https://www.situp-webcreation.com/img_techno/logo-html.png" height="36" alt="HTML"><img src="https://www.situp-webcreation.com/img_techno/logo-css.png" height="36" alt="CSS">
 <img src="https://www.situp-webcreation.com/img_techno/logo-sass.png" height="36" alt="SASS">
