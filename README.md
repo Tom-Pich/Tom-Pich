@@ -5,7 +5,7 @@ I’m currently improving my back-end knowledge (PHP MVC model, Symfony, Compose
 
 ### My philosophy
 The simplier, the better. Do stuff with less code, less framework, less library.  
-Simple, resilient, light-weighted, long-lasting.
+Simple, resilient, light-weighted, long-lasting and eco-friendly.
 
 ### My Front-End Stack
 <img src="https://www.situp-webcreation.com/assets/img_techno/logo-html.png" height="36" alt="HTML"><img src="https://www.situp-webcreation.com/img_techno/logo-css.png" height="36" alt="CSS">
@@ -18,14 +18,14 @@ I can developp WordPress themes with specific functionnalities, simple plugins a
 
 ### My Back-End Stack
 I also do back-end, although I’m less experienced in this domain.\
-<img src="https://www.situp-webcreation.com/assets/img_techno/logo-php.png" height="36" alt="PHP"> <img src="https://www.situp-webcreation.com/img_techno/logo-mysql.png" height="36" alt="MySQL">
+<img src="https://www.situp-webcreation.com/assets/img_techno/logo-php.png" height="36" alt="PHP"> <img src="https://www.situp-webcreation.com/assets/img_techno/logo-mysql.png" height="36" alt="MySQL">
 <img src="https://www.situp-webcreation.com/assets/img_techno/logo-nodejs.png" height="36" alt="NodeJS">
 <img src="https://www.situp-webcreation.com/assets/img_techno/logo-mongo-db.png" height="36" alt="MongoDB">  
 I’m currently working on Symfony 6.
 
 ### Apache and Linux
 I’m familiar with basic configurations on Apache and basic bash commands, including SSH.\
-<img src="https://www.situp-webcreation.com/assets/img_techno/logo-apache.png" height="36" alt="Apache"><img src="https://www.situp-webcreation.com/img_techno/logo-linux.png" height="36" alt="Linux">
+<img src="https://www.situp-webcreation.com/assets/img_techno/logo-apache.png" height="36" alt="Apache"><img src="https://www.situp-webcreation.com/assets/img_techno/logo-linux.png" height="36" alt="Linux">
 
 <!--
 **Tom-Pich/Tom-Pich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
