@@ -8,7 +8,7 @@ The simplier, the better. Do stuff with less code, less framework, less library.
 Simple, resilient, light-weighted, long-lasting.
 
 ### My Front-End Stack
-<img src="https://www.situp-webcreation.com/img_techno/logo-html.png" height="36" alt="HTML"><img src="https://www.situp-webcreation.com/img_techno/logo-css.png" height="36" alt="CSS">
+<img src="https://www.situp-webcreation.com/assets/img_techno/logo-html.png" height="36" alt="HTML"><img src="https://www.situp-webcreation.com/img_techno/logo-css.png" height="36" alt="CSS">
 <img src="https://www.situp-webcreation.com/img_techno/logo-sass.png" height="36" alt="SASS">
 <img src="https://www.situp-webcreation.com/img_techno/logo-js.png" height="36" alt="JavaScript">
 <img src="https://www.situp-webcreation.com/img_techno/logo-react.png" height="36" alt="React">
@@ -18,7 +18,7 @@ I can developp WordPress themes with specific functionnalities, simple plugins a
 
 ### My Back-End Stack
 I also do back-end, although I’m less experienced in this domain.\
-<img src="https://www.situp-webcreation.com/img_techno/logo-php.png" height="36" alt="PHP"><img src="https://www.situp-webcreation.com/img_techno/logo-mysql.png" height="36" alt="MySQL">
+<img src="https://www.situp-webcreation.com/img_techno/logo-php.png" height="36" alt="PHP"> <img src="https://www.situp-webcreation.com/img_techno/logo-mysql.png" height="36" alt="MySQL">
 <img src="https://www.situp-webcreation.com/img_techno/logo-nodejs.png" height="36" alt="NodeJS">
 <img src="https://www.situp-webcreation.com/img_techno/logo-mongo-db.png" height="36" alt="MongoDB">
 
