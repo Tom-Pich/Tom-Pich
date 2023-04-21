@@ -20,7 +20,7 @@ I can developp WordPress themes with specific functionnalities, simple plugins a
 I also do back-end, although I’m less experienced in this domain.\
 <img src="https://www.situp-webcreation.com/assets/img_techno/logo-php.png" height="36" alt="PHP"> <img src="https://www.situp-webcreation.com/img_techno/logo-mysql.png" height="36" alt="MySQL">
 <img src="https://www.situp-webcreation.com/assets/img_techno/logo-nodejs.png" height="36" alt="NodeJS">
-<img src="https://www.situp-webcreation.com/assets/img_techno/logo-mongo-db.png" height="36" alt="MongoDB">
+<img src="https://www.situp-webcreation.com/assets/img_techno/logo-mongo-db.png" height="36" alt="MongoDB">  
 I’m currently working on Symfony 6.\
 
 ### Apache and Linux
