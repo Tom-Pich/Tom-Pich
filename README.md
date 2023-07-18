@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I’m a front-end web developper, working as a freelance in B2B and B2C.\
-I’m currently improving my back-end knowledge (PHP MVC model, Symfony, Composer...).
+I’m a web developper, working as a freelance in B2B and B2C.\
+I’m currently improving my knowledge about Symfony 6.
 
 ### My philosophy
 The simplier, the better. Do stuff with less code, less framework, less library.  
