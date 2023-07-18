@@ -15,7 +15,7 @@ Simple, resilient, light-weighted, long-lasting and eco-friendly.
 
 ### My Back-End Stack  
 <img src="https://www.situp-webcreation.com/assets/img_techno/logo-php.webp" height="36" alt="PHP"> <img src="https://www.situp-webcreation.com/assets/img_techno/logo-mysql.webp" height="36" alt="MySQL">
-<img src="https://www.situp-webcreation.com/assets/img_techno/symfony.webp" height="36" alt="Symfony">
+<img src="https://www.situp-webcreation.com/assets/img_techno/logo-symfony.webp" height="36" alt="Symfony">
 
 ### My CMS Stack
 - **WordPress :** although I’m not found of WordPress, it’s a must-know. I can developp pretty much everything with it (or against it?).
