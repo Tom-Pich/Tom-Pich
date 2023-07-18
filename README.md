@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I’m a web developper, working as a freelance in B2B and B2C.\
-I’m currently improving my knowledge about Symfony 6.
+🌱 I’m currently improving my knowledge about Symfony 6.
 
 ### My philosophy
 The simplier, the better. Do stuff with less code, less framework, less library.  
@@ -21,6 +21,9 @@ Simple, resilient, light-weighted, long-lasting and eco-friendly.
 - **WordPress :** although I’m not found of WordPress, it’s a must-know. I can developp pretty much everything with it (or against it?).
 - **Bolt CMS :** this CMS is an excellent tool based on Symfony 5. Modern, very versatile and easy to develop specific functionalites.
 - **Grav CMS :** lightweighted flat file CMS. Powerful and easy to learn. Not very suited for websites with lots of data, though.
+
+#### Get in touch with me
+📫 contact at situp-webcreation dot com
 
 <!--
 **Tom-Pich/Tom-Pich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
