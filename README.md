@@ -8,10 +8,10 @@ The simplier, the better. Do stuff with less code, less framework, less library.
 Simple, resilient, light-weighted, long-lasting and eco-friendly.
 
 ### My Front-End Stack
-<img src="https://www.situp-webcreation.com/assets/img_techno/logo-html.png" height="36" alt="HTML"><img src="https://www.situp-webcreation.com/assets/img_techno/logo-css.png" height="36" alt="CSS">
-<img src="https://www.situp-webcreation.com/assets/img_techno/logo-sass.png" height="36" alt="SASS">
-<img src="https://www.situp-webcreation.com/assets/img_techno/logo-js.png" height="36" alt="JavaScript">
-<img src="https://www.situp-webcreation.com/assets/img_techno/logo-react.png" height="36" alt="React">
+<img src="https://www.situp-webcreation.com/assets/img_techno/logo-html.webp" height="36" alt="HTML"><img src="https://www.situp-webcreation.com/assets/img_techno/logo-css.png" height="36" alt="CSS">
+<img src="https://www.situp-webcreation.com/assets/img_techno/logo-sass.webp" height="36" alt="SASS">
+<img src="https://www.situp-webcreation.com/assets/img_techno/logo-js.webp" height="36" alt="JavaScript">
+<img src="https://www.situp-webcreation.com/assets/img_techno/logo-react.webp" height="36" alt="React">
 
 ### WordPress <img src="https://www.situp-webcreation.com/assets/img_techno/logo-wordpress.png" height="36" alt="WordPress">
 I can developp WordPress themes with specific functionnalities, simple plugins and simple Gutenberg blocks.
