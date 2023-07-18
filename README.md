@@ -18,9 +18,9 @@ Simple, resilient, light-weighted, long-lasting and eco-friendly.
 <img src="https://www.situp-webcreation.com/assets/img_techno/symfony.webp" height="36" alt="Symfony">
 
 ### My CMS Stack
-- WordPress : although I’m not found of WordPress, it’s a must-know. I can developp pretty much everything with it (or against it?).
-- Bolt CMS : although not very famous, this CMS is an excellent tool based on Symfony 5. Modern, very versatile and easy to develop specific functionalites.
-- Grav CMS : lightweighted flat file CMS. Powerful and easy to learn. Not very suited for websites with lots of data, though.
+- **WordPress :** although I’m not found of WordPress, it’s a must-know. I can developp pretty much everything with it (or against it?).
+- **Bolt CMS :** this CMS is an excellent tool based on Symfony 5. Modern, very versatile and easy to develop specific functionalites.
+- **Grav CMS :** lightweighted flat file CMS. Powerful and easy to learn. Not very suited for websites with lots of data, though.
 
 ### Apache and Linux
 I’m familiar with basic configurations on Apache and basic bash commands, including SSH.\
