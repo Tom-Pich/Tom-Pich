@@ -14,10 +14,10 @@ Simple, resilient, light-weighted, long-lasting and eco-friendly.
 <img src="https://www.situp-webcreation.com/assets/img_techno/logo-react.webp" height="36" alt="React">
 
 ### My Back-End Stack
-I also do back-end (PHP + MySQL). I’m currently working on Symfony 6.
+I also do back-end (PHP + MySQL). I’m currently working on Symfony 6.  
 <img src="https://www.situp-webcreation.com/assets/img_techno/logo-php.webp" height="36" alt="PHP">
 <img src="https://www.situp-webcreation.com/assets/img_techno/logo-mysql.webp" height="36" alt="MySQL">
-<img src="https://www.situp-webcreation.com/assets/img_techno/logo-symfony.webp" height="36" alt="Symfony">
+<img src="https://www.situp-webcreation.com/assets/img_techno/symfony.webp" height="36" alt="Symfony">
 
 ### WordPress <img src="https://www.situp-webcreation.com/assets/img_techno/logo-wordpress.png" height="36" alt="WordPress">
 I can developp WordPress themes with specific functionnalities, simple plugins and simple Gutenberg blocks.
