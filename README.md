@@ -19,14 +19,13 @@ I also do back-end (PHP + MySQL). I’m currently working on Symfony 6.
 <img src="https://www.situp-webcreation.com/assets/img_techno/logo-mysql.webp" height="36" alt="MySQL">
 <img src="https://www.situp-webcreation.com/assets/img_techno/symfony.webp" height="36" alt="Symfony">
 
-### WordPress <img src="https://www.situp-webcreation.com/assets/img_techno/logo-wordpress.png" height="36" alt="WordPress">
-I can developp WordPress themes with specific functionnalities, simple plugins and simple Gutenberg blocks.
-
-
+### My CMS Stack
+- WordPress : although I’m not found of WordPress, it’s a must-know. I can developp pretty much everything with it (or against it?).
+- Bolt CMS : although not very famous, this CMS is an excellent tool based on Symfony 5. Modern, very versatile and easy to develop specific functionalites.
+- Grav CMS : lightweighted flat file CMS. Powerful and easy to learn. Not very suited for websites with lots of data, though.
 
 ### Apache and Linux
 I’m familiar with basic configurations on Apache and basic bash commands, including SSH.\
-<img src="https://www.situp-webcreation.com/assets/img_techno/logo-apache.png" height="36" alt="Apache"><img src="https://www.situp-webcreation.com/assets/img_techno/logo-linux.png" height="36" alt="Linux">
 
 <!--
 **Tom-Pich/Tom-Pich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
